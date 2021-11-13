@@ -12,7 +12,6 @@ function mult(a ,b){
     
 }
 
-function div(){
-    //TODO: Implementar divisão
-    
+function div( a, b){
+    return a / b;
 }
