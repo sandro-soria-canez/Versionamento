@@ -10,6 +10,7 @@ function mult(){
     //TODO: Implementar multiplicação
 }
 
-function div(){
+function div( a, b){
     //TODO: Implementar divisão
+    return a / b;
 }
