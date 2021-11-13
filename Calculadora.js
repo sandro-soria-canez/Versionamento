@@ -6,10 +6,13 @@ function sub(){
     //TODO: Implementar subtração
 }
 
-function mult(){
+function mult(a ,b){
     //TODO: Implementar multiplicação
+    return a * b;
+    
 }
 
 function div(){
     //TODO: Implementar divisão
+    
 }
